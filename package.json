@@ -1,0 +1,31 @@
+{
+  "name": "heditor",
+  "version": "0.0.1",
+  "description": "editor",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VisualSJ/Harbors-editor.git"
+  },
+  "author": "VisualSJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VisualSJ/Harbors-editor/issues"
+  },
+  "homepage": "https://github.com/VisualSJ/Harbors-editor#readme",
+  "dependencies": {
+    "async": "^1.5.0",
+    "colors": "^1.1.2",
+    "globby": "^4.0.0",
+    "watch": "^0.17.1"
+  },
+  "devDependencies": {
+    "electron-prebuilt": "^0.35.4"
+  }
+}

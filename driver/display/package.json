@@ -1,0 +1,8 @@
+{
+  "name": "display",
+  "version": "0.0.1",
+  "type":  "driver",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {}
+}
